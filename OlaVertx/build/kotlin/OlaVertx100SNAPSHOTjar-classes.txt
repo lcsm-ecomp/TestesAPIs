@@ -1,0 +1,1 @@
+/workspaces/TestesAPIs/OlaVertx/build/classes/kotlin/main/teste/MainVerticle.class
